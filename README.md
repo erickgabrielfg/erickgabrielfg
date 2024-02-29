@@ -6,7 +6,7 @@ I am a of software engineering graduate and I am constantly learning
 *   🌍  I'm based in Ceará/Brazil
 *   ✉️  You can contact me at [erickgabrielferreira@alu.ufc.br](mailto:erickgabrielferreira@alu.ufc.br)
 
-## Technologies learned
+## Learned technologies
 
 ### General purpose
 
