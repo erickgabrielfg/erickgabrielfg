@@ -1,7 +1,7 @@
 Hello! My name is Erick Gabriel
 ==============================
 
-I am a of software engineering graduate and I am constantly learning
+I am a of software engineering graduate and i am constantly learning
 
 *   🌍  I'm based in Ceará/Brazil
 *   ✉️  You can contact me at [erickgabrielferreira@alu.ufc.br](mailto:erickgabrielferreira@alu.ufc.br)
